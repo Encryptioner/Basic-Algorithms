@@ -1,0 +1,8 @@
+
+
+The maximum element by merge =  996  	comparison = 97
+The minimum element by merge =  36  	comparison = 97
+
+
+The maximum element by brute_force =  996  	comparison = 49
+The minimum element by brute_force =  36  	comparison = 48
